@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+drop database gerenciadorsenhas;
+
+>>>>>>> main
 CREATE DATABASE GerenciadorSenhas;
 
 USE GerenciadorSenhas;
