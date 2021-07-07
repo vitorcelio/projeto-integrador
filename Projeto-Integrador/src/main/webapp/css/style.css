@@ -1,0 +1,122 @@
+@charset "utf-8";
+
+body{
+    width: 70%;
+    margin: 0 auto;
+    background-color: #E6E6E6;
+}
+
+header{
+    padding: 20px 0 35px 0;
+}
+
+header h1{
+    font-size: 30px;
+    font-family:Izmir;
+    font-weight: 500;
+}
+
+.pg{
+    color: #090E24;
+}
+
+.menu{
+    position: relative;
+}
+
+nav{
+    position: absolute;
+    top: 10px;
+    right: 0;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a{
+    font-family: Izmir;
+    font-weight: 500;
+    text-decoration: none;
+    color: #090E24;
+}
+
+.botao-menu{
+    padding: 10px 15px;
+    background-color: #090E24;
+    border-radius: 6px;
+    color: white;
+}
+
+.ini{
+    padding: 0 0 20px 0;
+}
+
+.ini li{
+    display: inline-block;
+    width: 100%;
+    vertical-align: top;
+    background-image: url(../imagens/Hello-bro.svg), linear-gradient(#718FC8, #718FC8);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding: 20px 20px;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+
+.ini li h1{
+    font-size: 30px;
+    font-family: Braveold;
+    font-weight: 700;
+}
+
+.ini li p{
+    font-size: 17px;
+    font-family: Izmir;
+    font-weight: 500;
+    color: white;
+    margin-top: 13px;
+    margin-bottom: 30px;
+}
+
+.produtos{
+    padding: 15px 0;
+}
+
+
+.produtos li{
+    display: inline-block;
+    width: 31%;
+    vertical-align: top;
+    background-color: white;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    border-radius: 6px;
+    box-shadow: 0 0 1em rgb(213, 213, 213);
+}
+
+.meio{
+    margin: 0 3%;
+}
+
+.produtos h1{
+    font-size: 60px;
+    font-family: Braveold;
+    font-weight: 700;
+    color: #090E24;
+}
+
+.produtos p{
+    font-size: 20px;
+    font-family:Izmir;
+    font-weight: 500;
+    color: #718FC8;
+    margin-top: 15px
+}
+
+.img-baixo{
+    padding-top: 30px;
+    display: block;
+    margin: 0 auto;
+}
