@@ -33,6 +33,6 @@
 </head>
 <c:import url="menu-lateral.jsp"></c:import>
 <body>
-	
+	<h1>PÁGINA INICIAL</h1>
 </body>
 </html>
