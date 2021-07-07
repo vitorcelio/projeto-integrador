@@ -33,56 +33,6 @@
 </head>
 <c:import url="menu-lateral.jsp"></c:import>
 <body>
-	<div class="principal">
-
-		<div class="lado">
-			<header>
-				<div class="menu">
-					<h1 class="pg">Início</h1>
-					<nav>
-						<ul>
-							<li><a href="">Contato</a></li>
-							<li><a href="">Suporte</a></li>
-							<li><a class="botao-menu" href="">Vítor Célio</a></li>
-						</ul>
-					</nav>
-				</div>
-			</header>
-
-			<ul class="ini">
-				<li>
-					<h1>Boa tarde, Vítor Célio!</h1>
-					<p>
-						Acompane todos os números da sua empresa<br>cadastrados na
-						plataforma.
-					</p>
-				</li>
-			</ul>
-
-			<ul class="produtos">
-				<li>
-					<h1>04</h1>
-					<p>
-						Categorias<br>cadastradas
-					</p> <img class="img-baixo" src="imagens/Mobile-bro.svg" alt=""
-					width="70%">
-				</li>
-				<li class="meio">
-					<h1>05</h1>
-					<p>
-						Softwares<br>cadastrados
-					</p> <img class="img-baixo" src="imagens/Mobile-bro.svg" alt=""
-					width="70%">
-				</li>
-				<li>
-					<h1>03</h1>
-					<p>
-						Funcionários<br>cadastrados
-					</p> <img class="img-baixo" src="imagens/Mobile-bro.svg" alt=""
-					width="70%">
-				</li>
-			</ul>
-		</div>
-	</div>
+	
 </body>
 </html>
