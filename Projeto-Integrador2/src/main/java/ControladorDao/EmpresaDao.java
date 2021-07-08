@@ -3,9 +3,10 @@ package ControladorDao;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
-import conta.IdentificarSoftware;
+import conta.*;
 
 public class EmpresaDao {
+	
 	public void adicionasoftware(IdentificarSoftware software) {
 		String sql = "insert into Identificar_Software " + "(software, cpf)" + "values (?, ?)";
 
